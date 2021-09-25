@@ -3,7 +3,7 @@
 `gradle build'
 
 ## To Run The Program For Part I
-`java prj01/RRScheduler -p <numberofthreads> -t <numberofiterations>-s 1'
+`java prj01/RRScheduler -p \<numberofthreads\> -t \<numberofiterations\>-s 1'
 
 ## To Run The Program For Part II
-`java prj01/RRScheduler -p <numberofthreads> -t <numberofiterations>-s 2'
+`java prj01/RRScheduler -p \<numberofthreads\> -t \<numberofiterations\>-s 2'
